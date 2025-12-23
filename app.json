@@ -1,0 +1,24 @@
+{
+  "name": "GrowMusicBot",
+  "description": "A ",
+  "logo": "https://envs.sh/glf.jpg",
+  "keywords": [
+    "python3"
+  ],
+  "env": {
+    "HEROKU_APP_NAME": {
+      "description": "The name of your Heroku app.",
+      "value": "",
+      "required": false
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+    }
+  ],
+  "stack": "container"
+}
