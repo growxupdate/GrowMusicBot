@@ -10,6 +10,11 @@
       "description": "Environment selector first letter",
       "value": "v",
       "required": true
+    },
+    "API_URL": {
+      "description": "API URL",
+      "value": "https://apixhub-45260e25732e.herokuapp.com",
+      "required": true
     }
   },
   "buildpacks": [
