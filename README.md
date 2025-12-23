@@ -11,7 +11,7 @@ A Telegram Music Bot project template.
 
 Click the button below to create a **dummy app on Heroku**:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Growxupdate/GrowMusicBot)
 
 ---
 
