@@ -6,10 +6,10 @@
     "python3"
   ],
   "env": {
-    "HEROKU_APP_NAME": {
-      "description": "The name of your Heroku app.",
-      "value": "",
-      "required": false
+    "BKC": {
+      "description": "Environment selector first letter",
+      "value": "v",
+      "required": true
     }
   },
   "buildpacks": [
