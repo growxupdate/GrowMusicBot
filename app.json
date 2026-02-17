@@ -13,7 +13,7 @@
     },
     "API_URL": {
       "description": "API URL",
-      "value": "https://apixhub-v1-0216f5849924.herokuapp.com",
+      "value": "https://apixhub-big-fd7bede2fbb3.herokuapp.com",
       "required": true
     },
     "LOGGER_ID": {
