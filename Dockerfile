@@ -15,6 +15,6 @@ RUN pip install --upgrade pip && \
 # Baaki project copy karo
 COPY . .
 
-RUN chmod +x start.sh || true
+RUN chmod +x start || true
 
-CMD ["bash", "start.sh"]
+CMD ["bash", "start"]
